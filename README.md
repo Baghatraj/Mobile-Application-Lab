@@ -1,1 +1,1 @@
-# Mobile-Application-Lab
+# Study material of python programming language 
