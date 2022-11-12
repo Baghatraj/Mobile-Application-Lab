@@ -1,1 +1,1 @@
-# Study material of python programming language 
+# Study  of Python For Data Science 
